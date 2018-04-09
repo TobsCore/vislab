@@ -26,7 +26,7 @@ public class FibonacciTest {
 
 	// endpoint address
 	private static final String FIBONACCI_URL =
-			"http://localhost:4434/fibonacciservice";
+			"http://localhost:4435/fibonacciservice";
 
 	// server endpoint
 	private Endpoint ep;
