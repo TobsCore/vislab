@@ -200,3 +200,8 @@ vislab-reference/
 lab2-reference/
 lab4/lab4-base/src/main/java/tcc/reference/
 lab5/lab5-ref/
+
+# Abgabge
+lab1/*.pdf
+
+*.zip
